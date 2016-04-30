@@ -1,1 +1,2 @@
-See https://github.com/atom/one-dark-ui/releases
+## 0.1.0 - First Release
+* First Release
