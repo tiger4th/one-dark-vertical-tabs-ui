@@ -1,2 +1,2 @@
-## 0.1.0 - First Release
-* First Release
+## 2.0.0 - First Release
+* Vertical Tab
